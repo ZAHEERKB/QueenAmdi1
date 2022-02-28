@@ -1,6 +1,6 @@
 {
-    "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "KB TV WATTSAPP BOT 3.6.2v",
+    "description": "KB TV WATTSAPP BOT 3.6.2v is a chat bot for WhatsApp. 💃🏻❤️",
     "keywords": [
         "Queen Amdi",
         "WhatsApp",
@@ -9,8 +9,8 @@
         "Button bot",
         "Black Amda"
     ],
-    "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "website": "Livepktv.online",
+    "logo": "https://1.bp.blogspot.com/-bv7wEazQjRo/YArqGrGh59I/AAAAAAAAAzo/GUUiV14E9fQkhBV8FjQLc4Vt_uYpT6U0ACLcBGAsYHQ/w427-h340/1330208_ico.png",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
@@ -31,7 +31,7 @@
         "ALIVE_LOGO": {
             "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/cQrnsXq/Queen-Amdi-Alive.jpg"
+            "value": "https://1.bp.blogspot.com/-bv7wEazQjRo/YArqGrGh59I/AAAAAAAAAzo/GUUiV14E9fQkhBV8FjQLc4Vt_uYpT6U0ACLcBGAsYHQ/w427-h340/1330208_ico.png"
         },
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
